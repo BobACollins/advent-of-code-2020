@@ -1,0 +1,4 @@
+*.DS_*
+*.pyc
+*__pycache__/
+.idea
